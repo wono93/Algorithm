@@ -19,7 +19,8 @@ public class Main {
 	static Queue<Point> q = new LinkedList<Point>();
 	 
 	
-
+	String str;
+	char ch = str.charAt(0);
 	public static void main(String[] args) {
 		
 		//입력부
